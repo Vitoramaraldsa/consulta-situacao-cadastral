@@ -1,0 +1,41 @@
+# 🐍 Arquivos e pastas do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🔧 Ambientes virtuais
+venv/
+.env/
+env/
+.venv/
+
+# 🧪 Testes e cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+.cache/
+nosetests.xml
+coverage.xml
+
+# 🧱 Compilação e distribuição
+build/
+dist/
+*.egg-info/
+*.egg
+
+# 💻 Configurações de IDEs
+.vscode/
+.idea/
+*.swp
+
+# 📦 Logs e temporários
+*.log
+*.tmp
+*.bak
+
+# ⚙️ Sistema operacional
+.DS_Store
+Thumbs.db
+
+# 🔒 Arquivos de credenciais (se houver)
+*.env
