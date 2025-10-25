@@ -13,8 +13,3 @@ with sync_playwright() as playwright:
     resultado = consultar_situacao(playwright, "47983653867")
     logging.info(f"resultado da consulta: {resultado}")
 
-
-
-
-
-
