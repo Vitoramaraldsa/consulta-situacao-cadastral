@@ -1,2 +1,3 @@
-def open_browser(playwright):
-    return playwright.chromium.launch(headless=False)
+from playwright.sync_api import Playwright
+def open_browser(playwright:Playwright):
+    return playwright.chromium.launch(headless=True)

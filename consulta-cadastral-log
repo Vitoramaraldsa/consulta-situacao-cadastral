@@ -4,3 +4,379 @@ Vitor S. A. Sá
 Situação: Regular
 
 * Sem pendência cadastral na Receita Federal.
+INFO:root:realizando consulta cadastral.
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: ***.836.538-**
+Vitor S. A. Sá
+Situação: Regular
+
+* Sem pendência cadastral na Receita Federal.
+INFO:root:resultado da consulta: ***.836.538-**
+Vitor S. A. Sá
+Situação: Regular
+
+* Sem pendência cadastral na Receita Federal.
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2025 17:00:33] "GET /47983653867 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2025 17:00:33] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: ***.836.538-**
+Vitor S. A. Sá
+Situação: Regular
+
+* Sem pendência cadastral na Receita Federal.
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2025 17:00:46] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: ***.836.538-**
+Vitor S. A. Sá
+Situação: Regular
+
+* Sem pendência cadastral na Receita Federal.
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2025 17:02:39] "GET /47983653867 HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: ***.836.538-**
+Vitor S. A. Sá
+Situação: Regular
+
+* Sem pendência cadastral na Receita Federal.
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2025 17:05:33] "GET /47983653867 HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(".dados.nome") to be visible\n',)
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(".dados.nome") to be visible\n',)
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 15:46:48] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 15:46:48] "GET /47983653867 HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(".dados.nome") to be visible\n',)
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 15:47:08] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.wait_for_selector: Target page, context or browser has been closed\nCall log:\n  - waiting for locator(".dados.nome") to be visible\n',)
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 15:47:47] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:root:realizando consulta cadastral.
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.goto: Target page, context or browser has been closed\nCall log:\n  - navigating to "https://www.situacao-cadastral.com/", waiting until "load"\n',)
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 15:48:10] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:resultado da consulta: ***.836.538-**
+Vitor S. A. Sá
+Situação: Regular
+
+* Sem pendência cadastral na Receita Federal.
+INFO:root:realizando consulta cadastral.
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 15:48:21] "GET /47983653867 HTTP/1.1" 200 -
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.goto: Target page, context or browser has been closed\nCall log:\n  - navigating to "https://www.situacao-cadastral.com/", waiting until "load"\n',)
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 15:48:40] "GET /47983653867 HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: ***.836.538-**
+Vitor S. A. Sá
+Situação: Regular
+
+* Sem pendência cadastral na Receita Federal.
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 15:49:03] "GET /47983653867 HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: ***.836.538-**
+Vitor S. A. Sá
+Situação: Regular
+
+* Sem pendência cadastral na Receita Federal.
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 15:49:14] "GET /favicon.ico HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(".dados.nome") to be visible\n',)
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 15:56:53] "GET /71521494452 HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.goto: net::ERR_ABORTED; maybe frame was detached?\nCall log:\n  - navigating to "https://www.situacao-cadastral.com/", waiting until "load"\n',)
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.wait_for_selector: Target page, context or browser has been closed\nCall log:\n  - waiting for locator(".dados.nome") to be visible\n',)
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 15:58:34] "GET /47983653867 HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(".dados.nome") to be visible\n    - waiting for" https://www.situacao-cadastral.com/" navigation to finish...\n    - navigated to "https://www.situacao-cadastral.com/"\n',)
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 15:59:11] "GET /47983653867 HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.wait_for_selector: Target page, context or browser has been closed\nCall log:\n  - waiting for locator(".dados.nome") to be visible\n    - waiting for" https://www.situacao-cadastral.com/" navigation to finish...\n    - navigated to "https://www.situacao-cadastral.com/"\n',)
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 16:01:10] "GET /47983653867 HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(".dados.nome") to be visible\n    - waiting for" https://www.situacao-cadastral.com/" navigation to finish...\n    - navigated to "https://www.situacao-cadastral.com/"\n',)
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 16:03:14] "GET /47983653867 HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.wait_for_selector: Target page, context or browser has been closed\nCall log:\n  - waiting for locator(".dados.nome") to be visible\n',)
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 16:03:31] "GET /47983653867 HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(".dados.nome") to be visible\n',)
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 16:11:10] "GET /47983653867 HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(".dados.nome") to be visible\n',)
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 16:18:18] "GET /47983653867 HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: ***.836.538-**
+Vitor S. A. Sá
+Situação: Regular
+
+* Sem pendência cadastral na Receita Federal.
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 16:28:55] "GET /47983653867 HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: ***.836.538-**
+Vitor S. A. Sá
+Situação: Regular
+
+* Sem pendência cadastral na Receita Federal.
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 16:31:32] "GET /47983653867 HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(".dados.nome") to be visible\n',)
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 16:40:03] "GET /71521494452 HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(".dados.nome") to be visible\n',)
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 16:40:33] "GET /47983653867 HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(".dados.nome") to be visible\n',)
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 16:41:22] "GET /47983653867 HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.wait_for_selector: Target page, context or browser has been closed\nCall log:\n  - waiting for locator(".dados.nome") to be visible\n',)
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 16:47:12] "GET /47983653867 HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(".dados.nome") to be visible\n',)
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 16:49:15] "GET /47983653867 HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(".dados.nome") to be visible\n',)
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 16:49:35] "GET /favicon.ico HTTP/1.1" 200 -
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-5' coro=<Connection.run() done, defined at C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\playwright\_impl\_connection.py:303> exception=NotImplementedError()>
+Traceback (most recent call last):
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\playwright\_impl\_connection.py", line 310, in run
+    await self._transport.connect()
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\playwright\_impl\_transport.py", line 133, in connect
+    raise exc
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\playwright\_impl\_transport.py", line 120, in connect
+    self._proc = await asyncio.create_subprocess_exec(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "C:\Users\Felipe\AppData\Local\Programs\Python\Python313\Lib\asyncio\subprocess.py", line 224, in create_subprocess_exec
+    transport, protocol = await loop.subprocess_exec(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        stderr=stderr, **kwds)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Felipe\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 1794, in subprocess_exec
+    transport = await self._make_subprocess_transport(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        protocol, popen_args, False, stdin, stdout, stderr,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        bufsize, **kwargs)
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Felipe\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 539, in _make_subprocess_transport
+    raise NotImplementedError
+NotImplementedError
+ERROR:uvicorn.error:Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\uvicorn\protocols\http\httptools_impl.py", line 409, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        self.scope, self.receive, self.send
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\fastapi\applications.py", line 1134, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\starlette\applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\fastapi\routing.py", line 125, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\fastapi\routing.py", line 111, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\fastapi\routing.py", line 391, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\fastapi\routing.py", line 290, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\main.py", line 7, in read_root
+    return await robot_main(cpf)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\src\robot\robot.py", line 12, in robot_main
+    async with Stealth().use_async(async_playwright()) as playwright:
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\playwright_stealth\context_managers.py", line 14, in __aenter__
+    context = await self.manager.__aenter__()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\playwright\async_api\_context_manager.py", line 46, in __aenter__
+    playwright = AsyncPlaywright(next(iter(done)).result())
+                                 ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\playwright\_impl\_transport.py", line 120, in connect
+    self._proc = await asyncio.create_subprocess_exec(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "C:\Users\Felipe\AppData\Local\Programs\Python\Python313\Lib\asyncio\subprocess.py", line 224, in create_subprocess_exec
+    transport, protocol = await loop.subprocess_exec(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        stderr=stderr, **kwds)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Felipe\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 1794, in subprocess_exec
+    transport = await self._make_subprocess_transport(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        protocol, popen_args, False, stdin, stdout, stderr,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        bufsize, **kwargs)
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Felipe\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 539, in _make_subprocess_transport
+    raise NotImplementedError
+NotImplementedError
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [4084]
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-5' coro=<Connection.run() done, defined at C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\playwright\_impl\_connection.py:303> exception=NotImplementedError()>
+Traceback (most recent call last):
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\playwright\_impl\_connection.py", line 310, in run
+    await self._transport.connect()
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\playwright\_impl\_transport.py", line 133, in connect
+    raise exc
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\playwright\_impl\_transport.py", line 120, in connect
+    self._proc = await asyncio.create_subprocess_exec(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "C:\Users\Felipe\AppData\Local\Programs\Python\Python313\Lib\asyncio\subprocess.py", line 224, in create_subprocess_exec
+    transport, protocol = await loop.subprocess_exec(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        stderr=stderr, **kwds)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Felipe\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 1794, in subprocess_exec
+    transport = await self._make_subprocess_transport(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        protocol, popen_args, False, stdin, stdout, stderr,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        bufsize, **kwargs)
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Felipe\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 539, in _make_subprocess_transport
+    raise NotImplementedError
+NotImplementedError
+ERROR:uvicorn.error:Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\uvicorn\protocols\http\httptools_impl.py", line 409, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        self.scope, self.receive, self.send
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\fastapi\applications.py", line 1134, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\starlette\applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\starlette\middleware\errors.py", line 186, in __call__
+    raise exc
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\fastapi\routing.py", line 125, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\fastapi\routing.py", line 111, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\fastapi\routing.py", line 391, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\fastapi\routing.py", line 290, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\main.py", line 7, in read_root
+    return await robot_main(cpf)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\src\robot\robot.py", line 11, in robot_main
+    async with async_playwright() as playwright:
+               ~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\playwright\async_api\_context_manager.py", line 46, in __aenter__
+    playwright = AsyncPlaywright(next(iter(done)).result())
+                                 ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Felipe\Desktop\programming\projects\consulta-situacao-cadastral\.venv\Lib\site-packages\playwright\_impl\_transport.py", line 120, in connect
+    self._proc = await asyncio.create_subprocess_exec(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+    )
+    ^
+  File "C:\Users\Felipe\AppData\Local\Programs\Python\Python313\Lib\asyncio\subprocess.py", line 224, in create_subprocess_exec
+    transport, protocol = await loop.subprocess_exec(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        stderr=stderr, **kwds)
+        ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Felipe\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 1794, in subprocess_exec
+    transport = await self._make_subprocess_transport(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        protocol, popen_args, False, stdin, stdout, stderr,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        bufsize, **kwargs)
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Felipe\AppData\Local\Programs\Python\Python313\Lib\asyncio\base_events.py", line 539, in _make_subprocess_transport
+    raise NotImplementedError
+NotImplementedError
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [21368]
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.wait_for_selector: Target page, context or browser has been closed\nCall log:\n  - waiting for locator(".dados.nome") to be visible\n',)
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 17:27:16] "GET /47983653867 HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(".dados.nome") to be visible\n',)
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 17:34:36] "GET /47983653867 HTTP/1.1" 200 -
+INFO:root:realizando consulta cadastral.
+INFO:root:resultado da consulta: Falha ao realizar consulta cadastral: ('Page.wait_for_selector: Timeout 15000ms exceeded.\nCall log:\n  - waiting for locator(".dados.nome") to be visible\n',)
+INFO:werkzeug:127.0.0.1 - - [15/Nov/2025 17:38:29] "GET /47983653867 HTTP/1.1" 200 -
